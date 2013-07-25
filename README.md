@@ -1,6 +1,6 @@
 # Bright Developers Read This
 
-+ Guides    
++ Guides
   + [Frontend dev bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources
 
 + Git
